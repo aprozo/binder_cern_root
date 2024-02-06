@@ -3,4 +3,6 @@ channels:
   - conda-forge
 dependencies:
   - root
-  - nbgitpuller
+  - pip
+  - pip:
+    - nbgitpuller
